@@ -1,5 +1,5 @@
 # Olá, Kenya aqui 👋
-## Bem vindo ao meu Portfolio
+## Um pouco sobre mim...
 
 
 - 🔭 Atualmente faço mestrado em Matemática Aplicada e Computacional na Universidde Estadua de Londrina e minha linha de pesquisa é MODELAGEM ESTATÍSTICA.

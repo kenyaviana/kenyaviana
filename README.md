@@ -2,9 +2,9 @@
 ## Bem vindo ao meu Portfolio
 
 
-- 🔭 Atualmente faço mestrado em Matemática Aplicada e Computacional e minha linha de pesquisa é MODELAGEM ESTATÍSTICA na Universidde Estadua de Londrina.
+- 🔭 Atualmente faço mestrado em Matemática Aplicada e Computacional na Universidde Estadua de Londrina e minha linha de pesquisa é MODELAGEM ESTATÍSTICA.
 
-- 💻 Pos graduação em Estatistica pela Universidade Estaduao de Londrina (a concluir - TCC) (2023/2024)
+- 💻 Pos graduação em Estatistica pela Universidade EstaduaL de Londrina (a concluir - TCC) (2023/2024)
 
 - 📗 Administradora Hospital pela Univerisade São Camilo (2011)
 
